@@ -52,8 +52,8 @@ choose — encrypted on the device before it leaves.
         </picture>
       </a>
       <h3><a href="https://github.com/veydanproject/Veydan-Pass">Veydan Pass</a></h3>
-      Passwords and one-time 2FA codes in one app, encrypted and synced
-      between your computer and your phone.
+      Your passwords. Your 2FA. Your vault. A local-first password manager
+      and authenticator, synced through storage you control.
       <br><br>
       <a href="https://github.com/veydanproject/Veydan-Pass/releases/latest"><b>Download</b></a>
     </td>
