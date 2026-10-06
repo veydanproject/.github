@@ -104,4 +104,4 @@ Bug or idea? Open an issue in the repository of the app. Anything else —
 ---
 
 © 2026 Veydan Project.
-Developed by Rookbaem Technologies LLC, USA.
+Developed by Rookbeam Technologies LLC, USA.
